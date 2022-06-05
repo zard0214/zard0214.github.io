@@ -1,289 +1,409 @@
-[//]: # (---)
+---
 
-[//]: # (layout: post)
 
-[//]: # (title: Welcome to Not Pure Poole)
+layout: post
 
-[//]: # (date: 2020-09-29 23:18 +0800)
 
-[//]: # (last_modified_at: 2020-10-01 01:08:25 +0800)
+title: Welcome to Not Pure Poole
 
-[//]: # (tags: [jekyll theme, jekyll, tutorial])
 
-[//]: # (toc:  true)
+date: 2020-09-29 23:18 +0800
 
-[//]: # (---)
 
-[//]: # (Welcome to **Not Pure Poole**! This is an example post to show the layout.)
+last_modified_at: 2020-10-01 01:08:25 +0800
 
-[//]: # ({: .message })
 
-[//]: # ()
-[//]: # (First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.)
+tags: [jekyll theme, jekyll, tutorial]
 
-[//]: # ()
-[//]: # (Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.)
 
-[//]: # ()
-[//]: # (> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.)
+toc:  true
 
-[//]: # ()
-[//]: # (Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.)
 
-[//]: # ()
-[//]: # (## Inline HTML elements)
+---
 
-[//]: # ()
-[//]: # (HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network]&#40;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&#41;.)
 
-[//]: # ()
-[//]: # (- **To bold text**, use `<strong>`.)
+Welcome to **Not Pure Poole**! This is an example post to show the layout.
 
-[//]: # (- *To italicize text*, use `<em>`.)
 
-[//]: # (- <mark>To highlight</mark>, use `<mark>`.)
+{: .message }
 
-[//]: # (- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.)
 
-[//]: # (- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.)
 
-[//]: # (- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.)
+First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
-[//]: # (- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.)
 
-[//]: # ()
-[//]: # (Most of these elements are styled by browsers with few modifications on our part.)
 
-[//]: # ()
-[//]: # (## Footnotes)
+Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-[//]: # ()
-[//]: # (Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:)
 
-[//]: # ()
-[//]: # ({% highlight text %})
 
-[//]: # (Clicking this number[^fn-sample_footnote])
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-[//]: # ({% endhighlight %})
 
-[//]: # ()
-[//]: # (Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:)
 
-[//]: # ()
-[//]: # ({% highlight text %})
+Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-[//]: # ([^fn-sample_footnote]: Handy! Now click the return link to go back.)
 
-[//]: # ({% endhighlight %})
 
-[//]: # ()
-[//]: # (You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.)
+## Inline HTML elements
 
-[//]: # ()
-[//]: # (## Heading)
 
-[//]: # ()
-[//]: # (Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.)
 
-[//]: # ()
-[//]: # (### Code)
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-[//]: # ()
-[//]: # (Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing &#40;triple backticks&#41; for rendering code.)
 
-[//]: # ()
-[//]: # ({% highlight js %})
 
-[//]: # (// Example can be run directly in your JavaScript console)
+- **To bold text**, use `<strong>`.
 
-[//]: # ()
-[//]: # (// Create a function that takes two arguments and returns the sum of those arguments)
 
-[//]: # (var adder = new Function&#40;"a", "b", "return a + b"&#41;;)
+- *To italicize text*, use `<em>`.
 
-[//]: # ()
-[//]: # (// Call the function)
 
-[//]: # (adder&#40;2, 6&#41;;)
+- <mark>To highlight</mark>, use `<mark>`.
 
-[//]: # (// > 8)
 
-[//]: # ({% endhighlight %})
+- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 
-[//]: # ()
-[//]: # (You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.)
 
-[//]: # ()
-[//]: # ({% highlight js linenos %})
+- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
 
-[//]: # (// Example can be run directly in your JavaScript console)
 
-[//]: # ()
-[//]: # (// Create a function that takes two arguments and returns the sum of those arguments)
+- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 
-[//]: # (var adder = new Function&#40;"a", "b", "return a + b"&#41;;)
 
-[//]: # ()
-[//]: # (// Call the function)
+- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
-[//]: # (adder&#40;2, 6&#41;;)
 
-[//]: # (// > 8)
 
-[//]: # ({% endhighlight %})
+Most of these elements are styled by browsers with few modifications on our part.
 
-[//]: # ()
-[//]: # (Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.)
 
-[//]: # ()
-[//]: # (### Lists)
 
-[//]: # ()
-[//]: # (Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.)
+## Footnotes
 
-[//]: # ()
-[//]: # (- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.)
 
-[//]: # (- Donec id elit non mi porta gravida at eget metus.)
 
-[//]: # (- Nulla vitae elit libero, a pharetra augue.)
+Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
 
-[//]: # ()
-[//]: # (Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.)
 
-[//]: # ()
-[//]: # (1. Vestibulum id ligula porta felis euismod semper.)
 
-[//]: # (2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.)
+{% highlight text %}
 
-[//]: # (3. Maecenas sed diam eget risus varius blandit sit amet non magna.)
 
-[//]: # ()
-[//]: # (Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.)
+Clicking this number[^fn-sample_footnote]
 
-[//]: # ()
-[//]: # (<dl>)
 
-[//]: # (  <dt>HyperText Markup Language &#40;HTML&#41;</dt>)
+{% endhighlight %}
 
-[//]: # (  <dd>The language used to describe and define the content of a Web page</dd>)
 
-[//]: # ()
-[//]: # (  <dt>Cascading Style Sheets &#40;CSS&#41;</dt>)
 
-[//]: # (  <dd>Used to describe the appearance of Web content</dd>)
+Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
 
-[//]: # ()
-[//]: # (  <dt>JavaScript &#40;JS&#41;</dt>)
 
-[//]: # (  <dd>The programming language used to build advanced Web sites and applications</dd>)
 
-[//]: # (</dl>)
+{% highlight text %}
 
-[//]: # ()
-[//]: # (Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.)
 
-[//]: # ()
-[//]: # (### Images)
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
 
-[//]: # ()
-[//]: # (Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.)
 
-[//]: # ()
-[//]: # (![placeholder]&#40;http://placehold.it/800x400 "Large example image"&#41;)
+{% endhighlight %}
 
-[//]: # (![placeholder]&#40;http://placehold.it/400x200 "Medium example image"&#41;)
 
-[//]: # (![placeholder]&#40;http://placehold.it/200x200 "Small example image"&#41;)
 
-[//]: # ()
-[//]: # (Align to the center by adding `class="align-center"`:)
+You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
 
-[//]: # ()
-[//]: # (![placeholder]&#40;http://placehold.it/400x200 "Medium example image"&#41;{: .align-center})
 
-[//]: # ()
-[//]: # (### Tables)
 
-[//]: # ()
-[//]: # (Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.)
+## Heading
 
-[//]: # ()
-[//]: # (<table>)
 
-[//]: # (  <thead>)
 
-[//]: # (    <tr>)
+Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-[//]: # (      <th>Name</th>)
 
-[//]: # (      <th>Upvotes</th>)
 
-[//]: # (      <th>Downvotes</th>)
+### Code
 
-[//]: # (    </tr>)
 
-[//]: # (  </thead>)
 
-[//]: # (  <tfoot>)
+Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
 
-[//]: # (    <tr>)
 
-[//]: # (      <td>Totals</td>)
 
-[//]: # (      <td>21</td>)
+{% highlight js %}
 
-[//]: # (      <td>23</td>)
 
-[//]: # (    </tr>)
+// Example can be run directly in your JavaScript console
 
-[//]: # (  </tfoot>)
 
-[//]: # (  <tbody>)
 
-[//]: # (    <tr>)
+// Create a function that takes two arguments and returns the sum of those arguments
 
-[//]: # (      <td>Alice</td>)
 
-[//]: # (      <td>10</td>)
+var adder = new Function("a", "b", "return a + b");
 
-[//]: # (      <td>11</td>)
 
-[//]: # (    </tr>)
 
-[//]: # (    <tr>)
+// Call the function
 
-[//]: # (      <td>Bob</td>)
 
-[//]: # (      <td>4</td>)
+adder(2, 6);
 
-[//]: # (      <td>3</td>)
 
-[//]: # (    </tr>)
+// > 8
 
-[//]: # (    <tr>)
 
-[//]: # (      <td>Charlie</td>)
+{% endhighlight %}
 
-[//]: # (      <td>7</td>)
 
-[//]: # (      <td>9</td>)
 
-[//]: # (    </tr>)
+You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
 
-[//]: # (  </tbody>)
 
-[//]: # (</table>)
 
-[//]: # ()
-[//]: # (Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.)
+{% highlight js linenos %}
 
-[//]: # ()
-[//]: # (-----)
 
-[//]: # ()
-[//]: # (Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>)
+// Example can be run directly in your JavaScript console
 
-[//]: # ()
-[//]: # ([^fn-sample_footnote]: Handy! Now click the return link to go back.)
+
+
+// Create a function that takes two arguments and returns the sum of those arguments
+
+
+var adder = new Function("a", "b", "return a + b");
+
+
+
+// Call the function
+
+
+adder(2, 6);
+
+
+// > 8
+
+
+{% endhighlight %}
+
+
+
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+
+
+### Lists
+
+
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+
+
+- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+
+- Donec id elit non mi porta gravida at eget metus.
+
+
+- Nulla vitae elit libero, a pharetra augue.
+
+
+
+Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+
+
+
+1. Vestibulum id ligula porta felis euismod semper.
+
+
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+
+
+
+Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+
+
+
+<dl>
+
+
+  <dt>HyperText Markup Language (HTML)</dt>
+
+
+  <dd>The language used to describe and define the content of a Web page</dd>
+
+
+
+  <dt>Cascading Style Sheets (CSS)</dt>
+
+
+  <dd>Used to describe the appearance of Web content</dd>
+
+
+
+  <dt>JavaScript (JS)</dt>
+
+
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+
+
+</dl>
+
+
+
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+
+
+### Images
+
+
+
+Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
+
+
+![placeholder](http://placehold.it/800x400 "Large example image")
+
+
+![placeholder](http://placehold.it/400x200 "Medium example image")
+
+
+![placeholder](http://placehold.it/200x200 "Small example image")
+
+
+
+Align to the center by adding `class="align-center"`:
+
+
+
+![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
+
+
+
+### Tables
+
+
+
+Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+
+
+<table>
+
+
+  <thead>
+
+
+    <tr>
+
+
+      <th>Name</th>
+
+
+      <th>Upvotes</th>
+
+
+      <th>Downvotes</th>
+
+
+    </tr>
+
+
+  </thead>
+
+
+  <tfoot>
+
+
+    <tr>
+
+
+      <td>Totals</td>
+
+
+      <td>21</td>
+
+
+      <td>23</td>
+
+
+    </tr>
+
+
+  </tfoot>
+
+
+  <tbody>
+
+
+    <tr>
+
+
+      <td>Alice</td>
+
+
+      <td>10</td>
+
+
+      <td>11</td>
+
+
+    </tr>
+
+
+    <tr>
+
+
+      <td>Bob</td>
+
+
+      <td>4</td>
+
+
+      <td>3</td>
+
+
+    </tr>
+
+
+    <tr>
+
+
+      <td>Charlie</td>
+
+
+      <td>7</td>
+
+
+      <td>9</td>
+
+
+    </tr>
+
+
+  </tbody>
+
+
+</table>
+
+
+
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+
+
+
+-----
+
+
+
+Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
+
+
+
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
