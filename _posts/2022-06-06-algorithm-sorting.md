@@ -7,6 +7,9 @@ layout: post
 title: Algorithm sorting
 
 
+categories: Algorithm
+
+
 tags: sorting
 
 
