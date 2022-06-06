@@ -7,7 +7,7 @@ layout: post
 title: Factory pattern
 
 
-categories: Design patterns
+categories: Design-patterns
 
 
 tags: design-patterns
