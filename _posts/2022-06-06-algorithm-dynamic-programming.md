@@ -1,13 +1,26 @@
 ---
-title: Algorithm dynamic-programming
+
+
 layout: post
-categories:
-- Algorithm
-tags:
-- dynamic-programming
+
+
+title: Algorithm dynamic-programming
+
+
+categories: Algorithm
+
+
+tags: dynamic-programming
+
+
 math: true
+
+
 date: 2022-06-06 15:32 +0800
+
+
 ---
+
 
 Problem-solving steps of dynamic programming:
 
