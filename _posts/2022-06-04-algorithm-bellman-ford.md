@@ -7,7 +7,7 @@ layout: post
 title: Bellman–Ford Algorithm for Shortest Paths
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: dynamic-programming

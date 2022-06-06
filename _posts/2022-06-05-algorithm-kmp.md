@@ -7,7 +7,7 @@ layout: post
 title: KMP Algorithm
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: string

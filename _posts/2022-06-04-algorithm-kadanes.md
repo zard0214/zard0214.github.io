@@ -7,7 +7,7 @@ layout: post
 title: Kadane's Algorithm
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: dynamic-programming

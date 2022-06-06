@@ -7,7 +7,7 @@ layout: post
 title: Dijkstra’s Shortest Path Algorithm
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: greedy

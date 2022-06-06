@@ -7,7 +7,7 @@ layout: post
 title: Dynamic-programming
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: dynamic-programming
