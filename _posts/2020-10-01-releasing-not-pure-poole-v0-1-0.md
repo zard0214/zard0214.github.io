@@ -13,9 +13,6 @@ author: Songzi Vong
 tags:
 
 
-- jekyll theme
-
-
 - jekyll
 
 

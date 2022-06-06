@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Hello. I am Zhecheng Zhao, a postgraduate student in the university of Sheffield right now. I have been learning JAVA in since 2012. From the programming point of view, I am always interested in data structure, algorithm and microservice. When I don't think about programming, I am reading,  travel around the world and take photos.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+For more information about me, please browse the [github](https://https://github.com/zard0214).

@@ -14,8 +14,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+#  - jekyll-admin
 
-# Optimize Jekyll
 exclude:
   - .editorconfig
   - .git
@@ -27,7 +27,6 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
 twitter:
   username: ZhechengZhao
   card: summary
@@ -44,15 +43,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
 author:
   name: zard0214
   url: https://github.com/zard0214/

@@ -7,7 +7,7 @@ layout: post
 title: Testing MathJax
 
 
-tags: mathjax
+tags: jekyll
 
 
 math: true
