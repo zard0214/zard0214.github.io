@@ -7,7 +7,10 @@ layout: post
 title: Testing MathJax
 
 
-tags: jekyll
+categories: Algorithm
+
+
+tags: dynamic-programming
 
 
 math: true

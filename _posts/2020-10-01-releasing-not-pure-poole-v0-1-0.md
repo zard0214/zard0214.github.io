@@ -10,10 +10,12 @@ title: Releasing Not Pure Poole v0.1.0
 author: Songzi Vong
 
 
+categories: Algorithm
+
+
 tags:
 
-
-- jekyll
+- dynamic-programming
 
 
 date: 2020-10-01 13:56 +0800
