@@ -4,16 +4,16 @@
 layout: post
 
 
-title: Testing MathJax
+title: Algorithm sorting
 
 
-tags: jekyll
+tags: sorting
 
 
 math: true
 
 
-date: 2020-10-02 15:32 +0800
+date: 2022-06-06 15:32 +0800
 
 
 ---
