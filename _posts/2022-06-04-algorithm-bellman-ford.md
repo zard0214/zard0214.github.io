@@ -4,13 +4,13 @@
 layout: post
 
 
-title: Sorting
+title: Bellman–Ford Algorithm for Shortest Paths
 
 
 categories: Algorithm
 
 
-tags: sorting
+tags: dynamic-programming
 
 
 math: true
