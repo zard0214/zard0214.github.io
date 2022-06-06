@@ -7,7 +7,7 @@ layout: post
 title: Testing MathJax
 
 
-categories: Algorithm
+categories: Algorithms
 
 
 tags: dynamic-programming
