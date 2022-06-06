@@ -4,7 +4,7 @@
 layout: post
 
 
-title: Testing MathJax
+title: Testing Math
 
 
 tags: jekyll
