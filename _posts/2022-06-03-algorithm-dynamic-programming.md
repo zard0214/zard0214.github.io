@@ -4,7 +4,7 @@
 layout: post
 
 
-title: Algorithm dynamic-programming
+title: Dynamic-programming
 
 
 categories: Algorithm

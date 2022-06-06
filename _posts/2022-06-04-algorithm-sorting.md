@@ -4,7 +4,7 @@
 layout: post
 
 
-title: Algorithm sorting
+title: Sorting
 
 
 categories: Algorithm
