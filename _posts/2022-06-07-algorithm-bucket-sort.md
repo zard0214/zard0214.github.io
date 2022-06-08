@@ -4,7 +4,7 @@
 layout: post
 
 
-title: Sorting
+title: Bucket-sort
 
 
 categories: Algorithms
@@ -16,7 +16,10 @@ tags: sorting
 math: true
 
 
-date: 2022-06-04 15:32 +0800
+toc:  true
+
+
+date: 2022-06-07 15:32 +0800
 
 
 ---

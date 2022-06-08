@@ -21,6 +21,7 @@ date: 2022-06-03 15:32 +0800
 
 ---
 
+## Methodology
 
 Problem-solving steps of dynamic programming:
 
