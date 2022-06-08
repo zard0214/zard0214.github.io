@@ -4,7 +4,7 @@
 layout: post
 
 
-title: heap-sort
+title: Heap-sort
 
 
 categories: Algorithms

@@ -4,7 +4,7 @@
 layout: post
 
 
-title: Insertion-Sort
+title: Merge-Sort
 
 
 categories: Algorithms

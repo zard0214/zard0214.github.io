@@ -4,7 +4,7 @@
 layout: post
 
 
-title: radix-sort
+title: Radix-sort
 
 
 categories: Algorithms

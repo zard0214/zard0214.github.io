@@ -4,7 +4,7 @@
 layout: post
 
 
-title: quick-sort
+title: Quick-sort
 
 
 categories: Algorithms
